@@ -1,5 +1,5 @@
 # VueJS 3 + Firebase SDK (Firestore)
-- Aula 07 em 19-04-2024
+- Aula 07 em 09-04-2024
 - Exemplo de uso do vuejs 3 (composition api) com:
 - - Realtime Database do Firebase
 - - Promise: Fetch then 
